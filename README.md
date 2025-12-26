@@ -62,7 +62,7 @@
 
 
 
-### Name: Punniyakotti.M
-### Register Number: 24006503
+### Name: vishal.r
+### Register Number: 25016264
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
